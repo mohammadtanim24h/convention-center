@@ -20,9 +20,18 @@
 }
 
 .fa-check-circle {
-    color: #5243C2;
+    color: #3F87F5;
 }
 
 .fa-check-circle.plus {
     color: white;
+}
+
+.plan-button, .plan-button-plus {
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.plan-button-plus {
+    color: #0B5ED7;
 }
