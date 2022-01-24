@@ -6,7 +6,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* Package section */
+/* Carousel Section */
+
+.carousel-info p {
+    font-size: 20px;
+}
+
+/* Package Section */
 
 .package {
     margin-top: 100px;
