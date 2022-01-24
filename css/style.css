@@ -59,6 +59,13 @@ body {
     font-size: 18px;
 }
 
+/* Speciality */
+
+.fa-pagelines, .fa-dollar-sign, .fa-compass {
+    color: #0B5ED7; 
+    font-size: 2.5rem;
+}
+
 /* Footer */
 
 footer {
