@@ -52,6 +52,14 @@ body {
     font-size: 1.2rem;
 }
 
+.speciality {
+    transition: .3s ease;
+    border-radius: 30px;
+}
+
+.speciality:hover {
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
 /* Toast */
 
 .fa-gift {
