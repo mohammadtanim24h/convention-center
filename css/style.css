@@ -35,3 +35,8 @@
 .plan-button-plus {
     color: #0B5ED7;
 }
+
+.package-badge {
+    background-color: #FF4E4E;
+    font-size: 1.2rem;
+}
