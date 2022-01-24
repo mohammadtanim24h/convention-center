@@ -59,6 +59,16 @@ body {
     font-size: 18px;
 }
 
+/* Footer */
+
+footer {
+    height: 280px;
+    background-color: #0B0D17;
+}
+
+.copyright-text {
+    color: #D9DBE1;
+}
 /* Media queries */
 
 @media (max-width: 480px) {
