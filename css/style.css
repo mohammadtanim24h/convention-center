@@ -52,6 +52,15 @@ body {
     font-size: 1.2rem;
 }
 
+/* Toast */
+
+.fa-gift {
+    color: #0B5ED7;
+    font-size: 18px;
+}
+
+/* Media queries */
+
 @media (max-width: 480px) {
     .carousel-image {
         height: 350px;
